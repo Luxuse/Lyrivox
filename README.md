@@ -31,3 +31,7 @@ Une fois que Lyrivox-S a généré le fichier audio, Lyrivox-LST entre en jeu. C
 1.  **Préparation du Texte :** Commencez par écrire le message que vous souhaitez entendre dans un fichier texte, ou chargez un fichier texte existant.
 2.  **Synthèse Audio avec Lyrivox-S :** Exécutez le module Lyrivox-S en lui fournissant le fichier texte préparé. Ce processus convertira le texte en un fichier audio au format WAV.
 3.  **Écoute avec Lyrivox-LST :** Lancez le module Lyrivox-LST et ouvrez le fichier audio WAV généré à l'étape précédente. Le lecteur diffusera alors le son, vous permettant d'écouter le contenu du texte original.
+
+## Encodage et Décodage ROT13
+
+
